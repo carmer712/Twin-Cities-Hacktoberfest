@@ -24,6 +24,8 @@ const Index = props => (
     <GhostbustersLeslie />
     <CarissaM/>
 
+    <div>Hey! I'm just testing this.</div>
+
     {/* Add your section component below here: */}
   </Layout>
 );
